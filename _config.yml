@@ -2,8 +2,8 @@
 title: American Literature
 email: bionicle.dragon@gmail.com
 description: "This site lets me take notes for my 11th grade English class."
-baseurl: ""
-url: "http://porglezomp.github.io/am-lit"
+baseurl: "/am-lit"
+url: "https://porglezomp.github.io"
 twitter_username: porglezomp
 github_username:  porglezomp
 
