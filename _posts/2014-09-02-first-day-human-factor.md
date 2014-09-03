@@ -3,7 +3,7 @@ title: The First Day and the Human Connection
 categories: school concepts
 ---
 
-The first day of school went pretty well, sort of how you'd expect, with every class dispensing a syllabus and most giving some sort of get-to-know-you homework. English class was no exception. I have to write a short little thing about myself, mostly just fill in the blank. I might put it up in a next post, but I'm not so sure about that. English class seems like it will be good (my English teacher maintains a class site and keeps it updated, so she's at least quite organized), more than half of the books that we're reading I know to be excellent.
+The first day of school went pretty well, sort of how you'd expect, with every class dispensing a syllabus and most giving some sort of get-to-know-you homework. English class was no exception. I have to write a short little thing about myself, mostly just fill in the blank. I might put it up in a next post, but I'm not so sure about that. English class seems like it will be good (my English teacher maintains a class site and keeps it updated, so she's at least quite organized), more than half of the books that we're reading I know to be excellent. It looks like we're reading *Death of a Salesman*, and *The Adventures of Huckleberry Finn* as well as *The Great Gatsby* and maybe other good things.
 
 ## The Human Connection
 
