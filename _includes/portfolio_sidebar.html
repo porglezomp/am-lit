@@ -1,0 +1,10 @@
+{% assign portfolio_pages = (site.pages | where: "layout", "portfolio" | sort: 'sort') %}
+<ul>
+{% for element in portfolio_pages %}
+	{% if element.title == page.title %}<em><strong>{% endif %}
+	<li>
+		<a href="{{ element.url }}">{{ element.title }}</a>
+	</li>
+	{% if element.title == page.title %}</strong></em>{% endif %}
+{% endfor %}
+</ul>

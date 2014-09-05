@@ -1,5 +1,39 @@
+/* Custom */
+/* ---------------------------------------------------------- */
+
+.portfolio {
+  overflow: auto;
+}
+
+.portfolio .sidebar {
+  width: 140px;
+  float: left;
+}
+
+.portfolio .content {
+  max-width: 660px;
+  padding-left: 40px;
+  margin-left: 140px;
+}
+
+.portfolio .sidebar ul {
+  list-style: none;
+}
+.portfolio .sidebar ul li {
+  font-variant: small-caps;
+}
+
+.portfolio .title {
+  font-size: 28px;
+  margin-top: -8px;
+}
+
+/* +--------------------------------------------------------+ */
+/* |                        Theme                           | */
+/* +--------------------------------------------------------+ */
+
 /* Base */
-/* ----------------------------------------------------------*/
+/* ---------------------------------------------------------- */
 
 * {
   margin: 0;
@@ -213,7 +247,7 @@ a:visited { color: #205caa; }
 }
 
 .post-content blockquote {
-  border-left: 4px solid #e8e8e8;
+  border-left: 4px solid #89f;
   padding-left: 20px;
   font-size: 18px;
   opacity: .6;

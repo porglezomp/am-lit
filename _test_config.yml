@@ -5,7 +5,7 @@ description: "This site lets me take notes for my 11th grade English class."
 baseurl: "/am-lit"
 url: "http://localhost:4000"
 twitter_username: porglezomp
-github_username:  porglezomp
+github_username:  stickfigure42
 
 defaults:
   -

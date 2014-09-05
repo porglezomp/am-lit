@@ -1,7 +1,8 @@
 ---
-title: Portfolio
-layout: page
+title: Home
+sort: 0
+layout: portfolio
 permalink: /portfolio/
 ---
 
-This is the portfolio page. Hi!
+# Caleb Jones's English 11 Portfolio
