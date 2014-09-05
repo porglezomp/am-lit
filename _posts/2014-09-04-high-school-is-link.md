@@ -1,6 +1,8 @@
 ---
 title: High School is Like ...
+layout: post
 date: 2014-09-04 22:40
+categories: school writing
 ---
 
 Every day in English class, we're given a prompt which we have to write about for 10 minutes starting as soon as the bell rings. I very much enjoyed my response to today's prompt because I produced a very surreal peice of writing. I reproduce it here in a slightly edited form. Today's prompt was...

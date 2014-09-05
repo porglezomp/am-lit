@@ -1,5 +1,6 @@
 ---
 title: The First Day and the Human Connection
+layout: post
 categories: school concepts
 ---
 
