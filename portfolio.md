@@ -5,4 +5,4 @@ layout: portfolio
 permalink: /portfolio/
 ---
 
-# Caleb Jones's English 11 Portfolio
+Caleb Jones's English 11 Portfolio

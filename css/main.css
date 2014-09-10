@@ -10,7 +10,7 @@
   float: left;
 }
 
-.portfolio .content {
+.portfolio .post-content {
   max-width: 660px;
   padding-left: 40px;
   margin-left: 140px;
@@ -21,12 +21,22 @@
 }
 .portfolio .sidebar ul li {
   font-variant: small-caps;
+  line-height: 18px;
+  padding-bottom: 6px;
+}
+
+.portfolio .selected {
+  font-style: italic;
+  margin-left: 4px;
+  display: block;
 }
 
 .portfolio .title {
   font-size: 28px;
   margin-top: -8px;
 }
+
+.porfolio .sidebar a:visited { color: #2a7ae2; text-decoration: none; }
 
 /* +--------------------------------------------------------+ */
 /* |                        Theme                           | */
