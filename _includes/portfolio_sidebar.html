@@ -2,7 +2,7 @@
 <ul>
 {% for element in portfolio_pages %}
 	<li>
-		<a href="{{ element.url }}" {% if element.title == page.title %}class="selected"{% endif %}>
+		<a href="{{ site.baseurl }}{{ element.url }}" {% if element.title == page.title %}class="selected"{% endif %}>
 			{{ element.title }}
 		</a>
 	</li>
