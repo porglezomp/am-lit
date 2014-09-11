@@ -1,6 +1,6 @@
 ---
 title: Vocabulary
-sort: 5
+sort: 8
 layout: portfolio
 ---
 

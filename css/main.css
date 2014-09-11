@@ -10,6 +10,10 @@
   float: left;
 }
 
+.portfolio .sidebar a:hover {
+  text-decoration: none;
+}
+
 .portfolio .post-content {
   max-width: 660px;
   padding-left: 40px;
@@ -20,15 +24,30 @@
   list-style: none;
 }
 .portfolio .sidebar ul li {
+  transition: 0.5s margin;
   font-variant: small-caps;
   line-height: 18px;
   padding-bottom: 6px;
 }
 
-.portfolio .selected {
+.portfolio .sidebar a.indented {
+  padding-left: 25px;
+  opacity: 0.8;
+  font-size: 80%;
+  margin-top: -2px;
+  display: block;
+  line-height: 80%;
+}
+
+.portfolio .sidebar ul li:hover {
+  margin-left: 4px;
+}
+
+.portfolio .sidebar a.selected {
   font-style: italic;
   margin-left: 4px;
   display: block;
+  color: #8181f1 ;
 }
 
 .portfolio .title {

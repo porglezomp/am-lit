@@ -1,6 +1,6 @@
 ---
 title: Ending Reflection
-sort: 6
+sort: 9
 layout: portfolio
 ---
 

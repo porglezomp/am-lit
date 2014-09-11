@@ -1,6 +1,6 @@
 ---
 title: Research Essay
-sort: 3
+sort: 4
 layout: portfolio
 ---
 
