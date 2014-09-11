@@ -1,7 +1,8 @@
 ---
 title: Thank You Ma'am — Annotating and Anylizing
-date: 2014-09-10 11:50 PM
+date: 2014-09-10 23:50:00
 layout: post
+categories: annotation analysis
 ---
 
 A few days ago in class we read _[Thank You Ma'am](http://staff.esuhsd.org/danielle/english%20department%20lvillage/rt/Short%20Stories/Thank%20You,%20Ma'am.pdf)_ by Langston Hughes in order to annotate and anylize it. First of all, before you continue reading this, I suggest clicking that link right now and reading it, because it's _very_ good.
