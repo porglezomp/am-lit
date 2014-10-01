@@ -4,6 +4,112 @@ sort: 8
 layout: portfolio
 ---
 
+## Week 2
+
+#### 1) Chicanery (noun)
+Deception by trickery.
+
+1. With much chicanery, the amy was able to get a small force past the wall.
+2. > Reports today indicate that the newly discovered god is characterized mostly by agressive chicanery.
+
+**Synonyms:** trickery, deceit
+
+---
+
+#### 2) Chide (verb)
+To voice disapproval.
+
+1. The worried mother chided her 3 year old son for toddling across the 20 lane superhighway.
+2. The villiage elders chided Ralamozoon for his foolhardyness.
+
+**Synonyms:** scold, chastise
+
+---
+
+#### 3) Churlish (adjective)
+Rude in a mean-spirited and surly way.
+
+1. > Officials are confirming today that the new god (now being called Barotor) is an extremely churlish diety.
+2. Tom was an unpleasantly churlish sort of fellow, but in a rather vague sort of way.
+
+**Synonyms:** rude, surly
+
+---
+
+#### 4) Circumlocution (noun)
+Indirect and wordy - using too many words when fewer would do.
+
+1. We find the accused guilty of using circumlocution in the pursuit of obstructing justice.
+2. Circumlocution is very nearly autological.
+
+**Synonyms:** verbosity, prolixity
+
+---
+
+#### 5) Daunting (adjective)
+Appearing difficult to do; intimidating.
+
+1. The task of writing a mere 20 sentences with some specified words seemed terribly daunting to her.
+2. The Dragon Rodeo is a daunting proposition if I ever saw one.
+
+**Synonyms:** formidable, disconcerting, intimidating
+
+---
+
+#### 6) Dearth (noun)
+A lack of something.
+
+1. The Dark Side was quickly running out of Sith Lords — it was a dearth of Darths.
+2. There was a dearth of crops that year; many went hungry.
+
+**Synonyms:** scarcity, shortage
+
+---
+
+#### 7) Deciduous (adjective)
+Shedding at a specific stage of growth / time of year.
+
+1. This species of rabbit is characterized by something very odd: deciduous eyeballs.
+2. Conifers are absolutely not deciduous! Except for deciduous conifers, like Bald Cypress, or Larch, or... Um, apparently 10+ species.
+
+**Synonyms:** temporary, ephemeral
+
+---
+
+#### 8) Deleterious (adjective)
+Having harmful effect.
+
+1. > Breaking: Self-stabbings are causing a variety of deleterious effects, especially among the living! Ask your doctor is being stabbed is right for you.
+2. > Breaking: Radioisotope-Choco-Bars having deleterious effects on our children!
+
+**Synonyms:** injurious, damaging
+
+---
+
+#### 9) Denigrate (verb)
+To belittle or diminish the opinion of.
+
+1. > The company announced that they were absolutely the best at everything today, in an attempt to denigrate their competitors. "We're really way better than all of our competitors, they have no idea what they're doing," they continued during their press release.
+2. I don't wish to denigrate Microsoft, except I really do a whole lot.
+    + Seriously, those guys are awful.
+    + Like, really bad.
+
+**Synonyms:** disparage, deprecate
+
+---
+
+#### 10) Diffident (adjective)
+Lacking self confidence.
+
+1. You may feel diffient about using this new vocabulary, but you need to work up the courage to use it.
+2. Suzy was always diffident when bobby was around.
+
+**Synonyms:** shy, timid
+
+---
+
+## Week 1
+
 #### 1) Aberration (noun)
 Differing from the norm.
 
