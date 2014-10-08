@@ -4,6 +4,110 @@ sort: 8
 layout: portfolio
 ---
 
+## Week 3
+
+#### 1) Enervate (verb)
+Weaken or destroy strength or vitality of.
+
+1. The skeleton mage cast Enervate upon the party, enervating them all in a matter of seconds.
+2. School enervates students more rapidly than anything else.
+
+**Synonyms:** exhaust, tire
+
+---
+
+#### 2) Egregious (adjective)
+Extremely bad.
+
+1. Spying on people is considered to be an egregious violation of their rights.
+2. The word "punny" is considered to be an egregious crime against humanity.
+
+**Synonyms:** shocking, appalling
+
+---
+
+#### 3) Epiphany (noun)
+(1) A revelatory manifestation of a devine being. (2) A sudden understanding or realization.
+
+1. > And then I was visited by Ephiphany, and was blinded by glory.
+2. When I finally understood Rust's reference ownership system, it was like an epiphany.
+
+**Synonyms:** insight, realization
+
+---
+
+#### 4) Emulate (verb)
+To follow the actions of.
+
+1. I seek to emulate many selected aspects of fictional characters.
+2. Emulation is the most fourthright manifestation of obesquiousness.
+
+**Synonyms:** imitate, mimic.
+
+---
+
+#### 5) Enmity (noun)
+Feeling opposed or hostile to someone or something.
+
+1. Let it be known that my enmity knows no bounds towards clamshell packaging.
+2. She eyed him from afar with a harsh enmity and vowed that next time victory would be hers.
+
+**Synonyms:** animosity, antagonism
+
+---
+
+
+#### 6) Evanescent (adjective)
+Vanishing; likely to vanish like vapor.
+
+1. The vapor was evanescent, vanishing as if it were vapor! We were all surprised, somehow none of us had ever seen it go like that.
+2. The dangling pointer was somehow evanescent, fleeting back into the stack as the contents at its address were deinitialized.
+
+**Synonyms:** brief, fleeting
+
+---
+
+#### 7) Expurgate (verb)
+To remove erroneous, vulgar, obscene, or otherwise objectionable material before publication.
+
+1. > The council declared their intent to expurgate the entirety of history today, citing knowledge of the past as extremely objectionable.
+2. It is those who do not read who most frequently seek to expurgate books.
+
+**Synonyms:** cleanse, purge
+
+---
+
+#### 8) Facetious (adjective)
+Playfully joking, often at an inappropriate time.
+
+1. She was a very facetious child, never treating anything seriously.
+2. While the top of the list was rather serious, as befit the topic, they options became increasingly facetious as you progressed down.
+
+**Synonyms:** amusing, flippant
+
+---
+
+#### 9) Fatuous (adjective)
+Smugly and uncosciously foolish.
+
+1. Your argument is utterly fatuous, and your opinion is just as absurd!
+2. Your claims that reality exists are completely fatuous, any fool can see that we live in a holographic dream dimensions projected upon the surface of a hyper-rhomboid.
+
+**Synonyms:** absurd, asinine
+
+---
+
+#### 10) Feckless (adjective)
+(1) Feeble and ineffective. (2) Careless and irresponsible.
+
+1. Kerbals are often viewed as feckless engineers, but the fact that they so readily reach the Mün speaks to the contrary.
+2. He was an utterly feckless leader.
+
+**Synonyms:** aimless, incompetent
+
+---
+
+
 ## Week 2
 
 #### 1) Chicanery (noun)
