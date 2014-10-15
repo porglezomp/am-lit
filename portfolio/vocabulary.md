@@ -4,6 +4,112 @@ sort: 8
 layout: portfolio
 ---
 
+## Week 4
+
+#### 1) Fiduciary (adjective)
+a) Holding something in trust.
+b) Being a trustee.
+
+1. I am content with the current state of the trustee's fiduciary relationship.
+2. (To music) Do your fiduciary duty doot-dee-doo doot-dee-doo.
+
+**Synonyms:** curator, trustee
+
+---
+
+#### 2) Filibuster (noun)
+The use of obstructive tactics (especially prolonged speeches) in order to delay legislative action.
+
+1. Texas filibuster requirements are, quite frankly, insane.
+2. > It has been observed that Councilman Zærnæx is filibustering before the Council of minds, attempting to block the moon vaporization legislation that's being proposed.
+
+**Synonyms:** stonewalling, delaying tactics
+
+---
+
+#### 3) Gauche (adjective)
+Lacking social polish; tactless.
+
+1. Bob is so gauche, what with all his walking around in his sweatpants.
+2. O M G she is _so_ gauche, she doesn't even know how to laserdance.
+
+**Synonyms:** awkward, inelegant
+
+---
+
+#### 4) Gerrymander (transitive verb)
+To divide into voting districs so as to give an unfair advantage to one party.
+
+1. > The Council of Minds has gerrymandered the voting districts, replacing all of them with a single one where it is compulsory to vote for the current Council.
+2. Gerrymandering is a harmful tactic, but it can be aleviated simply by making it so that the other party must approve any redistricting.
+
+**Synonyms:** rig, manipulate
+
+---
+
+#### 5) Grevious (adjective)
+Serious or grave in nature.
+
+1. Placing the candles a mere half-inch off of the correct radius from the node would be an extremely grevious mistake.
+2. I'm afraid that you have committed a grevious error, never match wits with a Sicilian when death is on the line.
+
+**Synonyms:** critical, severe
+
+---
+
+#### 6) Haughty (adjective)
+Disdainfully proud.
+
+1. I don't approve of the prince's haughty attitude, he will alienate the common people with that sort of behaviour.
+2. The lord underestimated the tiny girl, blinded to her abilities by his haughty pride.
+
+**Synonyms:** arrogant, vain
+
+---
+
+#### 7) Harangue
+a) (noun) a ranting speech.
+b) (verb) to give such a speech.
+
+1. The comic _Shortpacked!_ has many side characters who exist only to harangue the main characters.
+2. He felt better after his massive harangue.
+
+**Synonyms:** tirade, diatribe
+
+---
+
+#### 8) Hegemony (noun)
+The social, cultural, ideological, or economic influence exerted by a dominant group.
+
+1. The government in Ender's Game ends up as a hegemonic system.
+2. > They formed a galactic hegemony, being the only ones with access to the warp drive they had tremendous influence over the goings on of the inhabitants of the whole empire.
+
+**Synonyms:** leadership, dominance
+
+---
+
+#### 9) Homogeneous (adjective)
+a) of the same or similar nature or kind.
+b) uniform in structure and composition.
+
+1. In chemistry, homogeneous mixtures are also called solutions.
+2. > The council desires absolute homogeneity of opinion among all its constituents. 
+
+**Synonyms:** uniform, unvaried
+
+---
+
+#### 10) Hubris (noun)
+Overbearing pride or arrogance.
+
+1. Hubris was his fatal flaw.
+2. The thieve's hubris was astounding, she thought that she could never be captured.
+
+**Synonyms:** arrogance, conceit
+
+---
+
+
 ## Week 3
 
 #### 1) Enervate (verb)
