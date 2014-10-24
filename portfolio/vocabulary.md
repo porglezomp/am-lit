@@ -4,6 +4,111 @@ sort: 8
 layout: portfolio
 ---
 
+## Week 5
+
+#### 1) Idiosyncratic (adjective)
+Particular to one person; highly individual.
+1. One of the most idiosyncratic elements of javascript is its bizarre handling of adding lists.
+2. Regular expressions are generally idiosyncratic, each language extending them in different ways.
+
+**Synonyms:** distinctive, peculiar
+
+---
+
+#### 2) Impeach (verb)
+a) To accuse. b) To charage with improper conduct in office.
+c) To question the validity; try to discredit.
+
+1. Contrary to popular belief, someone being impeached does not predicate removal from office.
+2. Impeach bobama he took mah jobs
+
+**Synonyms:** challenge, question, indict
+
+---
+
+#### 3) Incognito (adjective, adverb)
+With one's identity disguised or concealed.
+
+1. The fellow across the aisle is incognito, although the Groucho glasses leave him anything but inconspicuous.
+2. When dealing with shady characters like that, it's best to do so incognito.
+
+**Synonyms:** in disguise, under cover
+
+---
+
+#### 4) Incontrovertible (adjective)
+Impossible to dispute.
+
+1. His argument rested on an incontrovertible fact: Beans are the best food.
+2. By now, Anthropogenic Climate Change is incontrovertible.
+
+**Synonyms:** incontestible, undeniable
+
+---
+
+#### 5) Inculcate (verb)
+a) To impress upton the mind of another by repetition; to instill.
+b) To teach others by frequent instruction or repetition; indoctrinate.
+
+1. The new procedure will by applied to forcibly inculcate our children into the shared values of the commune --- they must love beans.
+2. The #gamergate "movement" seeks to inculcate an attitude of hate towards women in games.
+
+**Synonyms:** instill in, implant in
+
+---
+
+#### 6) Infrastructure (noun)
+Underlying base or foundation.
+
+1. The space elevator will provide an important piece of infrastructure for our future conquest of the solar system.
+2. Investments in infrastructure often pay off in the long run, but are frequently opposed by those scared by the costs.
+
+**Synonyms:** base, framework
+
+---
+
+#### 7) Irony (noun)
+a) Language saying the opposite of one's meaning.
+b) Events directly contrary to expectations.
+
+1. The fire house burning down is the canonical example given for irony.
+2. Shakespeare's plays are full of every kind of irony.
+
+**Synonyms:** sarcasm, incongruity
+
+---
+
+#### 8) Judicious (adjective)
+Having or excercising sound judgement.
+
+1. Judicious application of punctuation adds clarity, but an excess brings obfuscation.
+2. The council was considered to be highly judicious by the community.
+
+**Synonyms:** wise, sensible
+
+---
+
+#### 9) Kinetic (adjective)
+Of, relating to, or produced by motion.
+
+1. Kinetic enegery is the energy possessed by a moving object.
+2. Kinetic sculptures are beautiful, their motion adds another layer to be appreciated.
+
+**Synonyms:** active, dynamic
+
+---
+
+#### 10) Kowtow (verb)
+a) To kneel and touch the forehead to the ground; a deep bow.
+b) To do the above metaphorically; show extreme deference.
+
+1. It is not seemly for us to kowtow to the whims of another nation.
+2. The lord kowtowed to the king.
+
+**Synonyms:** grovel, be obesquious
+
+---
+
 ## Week 4
 
 #### 1) Fiduciary (adjective)
