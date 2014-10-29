@@ -4,6 +4,109 @@ sort: 8
 layout: portfolio
 ---
 
+## Week 6
+
+#### 1) Laudatory (adjective)
+Expressing admiration or praise.
+
+1. The press made lauditory commentary after the rocket successfully launched.
+2. The president of the college gave a lauditory speech congratulating their professor for winning a Nobel prize.
+
+**Synonyms:** complimentary, congratulatory
+
+---
+
+#### 2) Lexicon (noun)
+The vocabulary of a person or a branch of knowledge.
+
+1. Trepidation is not in my lexicon!
+2. The lexicon of biology is intimidating.
+
+**Synonyms:** dictionary, wordbook
+
+---
+
+#### 3) Loquacious (adjective)
+Very talkative.
+
+1. The class was very loquacious, frustrating the teacher.
+2. She was a very loquacious child, and it frequently got her into trouble.
+
+**Synonyms:** talkative, voluble
+
+---
+
+#### 4) Lugubrious (adjective)
+Looking or souding sad or dismal.
+
+1. He carried an infectiously lugubrious attitude, as if a cloud of sadness traveled along with him.
+2. Don't look so lugubrious, there's still time to finish!
+
+**Synonyms:** mournful, gloomy
+
+---
+
+#### 5) Magnanimous (adjective)
+Very generous or forgiving, especially toward a rival or one less powerful than oneself.
+
+1. I respect him, he is a magnanimous adversary.
+2. It is considered good to be magnanimous when in a position of power.
+
+**Synonyms:** generous, charitable
+
+---
+
+#### 6) Metamorphosis (noun)
+A marked change in appearance or condition; also transformation by magic.
+
+1. He has undergone a metamorphosis, I hardly recognize him!
+2. He has undergone a metamorphosis, we need to find the witch that did it and make her turn him back!
+
+**Synonyms:** transformation, transmutation
+
+---
+
+#### 7) Moiety (noun)
+A half or portion of something.
+
+1. The princes were all granted a moiety of the kingdom.
+2. We shared the biscut, and I was grateful for what moiety I was given.
+
+**Synonyms:** component, portion
+
+---
+
+#### 8) Nanotechnology (noun)
+The branch of technology that deals with sizes of less than 100 nanometers.
+
+1. The most terrifying scenario in nanotechnology is the Grey Goo scenario: a self-replicating nanobot that consumes everything.
+2. Nanotechnology optics can provide invisibility!
+
+**Synonyms:** NA
+
+---
+
+#### 9) Nebulous (adjective)
+Cloudy or hazy; also metaphorically cloudy -- vague or ill defined.
+
+1. The plan was somewhat nebulous, but we all reluctantly agreed.
+2. The room had a nebulous quality to it, shapes at the far wall were nearly obscured.
+
+**Synonyms:** indistinct, indefinite
+
+---
+
+#### 10) Nihilism (noun)
+The rejection of all religion and moral principle, often believing that life is meaningless.
+
+1. I have accepted nihilism, I believe that life is meaningless.
+2. I follow the rarer school of meta-nihilism, the belief that nihilism is meaningless.
+
+**Synonyms:** skepticism, negativity
+
+---
+
+
 ## Week 5
 
 #### 1) Idiosyncratic (adjective)
