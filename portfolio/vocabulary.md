@@ -4,6 +4,109 @@ sort: 8
 layout: portfolio
 ---
 
+## Week 7
+
+#### 1) Nomenclature (noun)
+System of terms used in a field.
+
+1. I'm afraid that I'm unfamiliar with the nomeclature of Necromancy.
+2. The first three chapters of the textbook spent an extensive amount of time attempting to inculcate the nomenclature of the subject.
+
+**Synonyms:** terminology, glossary
+
+---
+
+#### 2) Nonsectarian (adejctive)
+Not limited to a particular religious sect or political group.
+
+1. Their culture was notable for its large nonsectarian temples and artwork.
+2. In political circles, nonsectarian opinions are few and far between.
+
+**Synonyms:** desegregated, nondenominational
+
+---
+
+#### 3) Obfuscate (verb)
+To render incomprehensible.
+
+1. Obfuscation is a common step in software development, to obscure the intent of code from competitors.
+2. Teachers have a tendency to obfuscate responses when they're not completely sure of the question.
+
+**Synonyms:** obscure, confuse
+
+---
+
+#### 4) Obsequious (adjective)
+Exibiting fawning attentiveness.
+
+1. The servant gave obsequious attentions towards the Lord of the castle.
+2. We refuse to be obsequious towards the Russians!
+
+**Synonyms:** servile, ingratiating
+
+---
+
+#### 5) Omnipotent (adjective)
+Having unlimited power.
+
+1. Many activities of creation give a bizarre sense of omnipotence, you're creating a world.
+2. Religions commonly attribute omnipotence to their diety.
+
+**Synonyms:** all-powerful, supreme
+
+---
+
+#### 6) Onerous (adjective)
+Burdensome
+
+1. Using Java is an onerous task.
+2. He was given the onerous responsibility of maintaining the frail tree in the side yard.
+
+**Synonyms:** arduous, strenuous
+
+---
+
+#### 7) Oxidize (verb)
+To combine with Oxygen.
+
+1. An explosions is simply very rapid oxidation.
+2. Our chemistry class involves quite a bit of oxidation.
+
+**Synonyms:** burn, rust
+
+---
+
+#### 8) Paradigm (noun)
+A typical example or pattern of something.
+
+1. We need to shift our paradigm in order to realign our core competencies with our brand image.
+2. Rust represents a new paradigm in systems programming -- a focus on using the compiler to protect the user from their mistakes
+
+**Synonyms:** model, archetype
+
+---
+
+#### 9) Paragon (noun)
+A model of excellence or perfection.
+
+1. The final goal in D&D 4e is your "Paragon Path," your destiny of excellence.
+2. The city plans to be a paragon of clean energy.
+
+**Synonyms:** epitome, exemplar
+
+---
+
+#### 10) Pejorative (adjective)
+Expressing contempt or disapproval.
+
+1. There is a tremendous variety to pejorative words, showing that people just love to hate each other.
+2. You can infer many things as pejorative, someone could probably take offense to the term "nice."
+
+**Synonyms:** derogatory, uncomplimentary
+
+---
+
+
 ## Week 6
 
 #### 1) Laudatory (adjective)
