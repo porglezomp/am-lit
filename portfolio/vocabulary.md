@@ -4,6 +4,109 @@ sort: 8
 layout: portfolio
 ---
 
+## Week 8
+
+#### 1) Perfunctory (adjective)
+Showing little interest or enthusiasm.
+
+1. The guard only gave a perfunctory examination of their papers, and then let them pass.
+2. Presiding over the Senate is a largely perfunctory role, most things are self-managed.
+
+**Synonyms:** cursory, token
+
+---
+
+#### 2) Plasma (noun)
+Liquid part of the blood.
+
+1. Blood plasma is distinctly different from stellar plasma.
+2. The patient needed a plasma transplant.
+
+**Synonyms:** NA
+
+---
+
+#### 3) Plethora (noun)
+A large or excessive amount of something.
+
+1. I use a plethora of programming languages.
+2. At times I feel that I have published a plethora of unfinished projects to github.
+
+**Synonyms:** excess, surplus
+
+---
+
+#### 4) Precipitous (adjective)
+Extremely steep descent.
+
+1. His meteoric rise was quickly followed by a precipitous fall.
+2. The walled city was surrounded on three sides by precipitous cliffs.
+
+**Synonyms:** sheer, abrupt
+
+---
+
+#### 5) Quandry (noun)
+A state of perplexity over what to do in a difficult situation.
+
+1. I find myself in a quandry over which ice cream to choose --- this choice could be life or death.
+2. He carefully posed a philosophical quandry that would leave the field puzzled for a decade.
+
+**Synonyms:** predicament, plight
+
+---
+
+#### 6) Quotidian (adjective)
+Everyday; occuring daily.
+
+1. I have made a quotidian ritual of commiting code to github, my streak has lasted 87 days in a row so far.
+2. The day-night cycle seems to quotidian, you know?
+
+**Synonyms:** daily, diurnal
+
+---
+
+#### 7) Rancor (noun)
+a) Deep, bitter resentment.
+b) A monster in the Star Wars series. 
+
+1. The Senator spoke without rancor, merely with grudging resignation.
+2. I feel intense rancor, he killed my dog.
+
+**Synonyms:** bitterness, hatred
+
+---
+
+#### 8) Reciprocal (adjective)
+Shared by both sides.
+
+1. They formed a reciprocal trade agreement that would fund both countries for years to come.
+2. Our love was reciprocal.
+
+**Synonyms:** mutual, common
+
+---
+
+#### 9) Rectitude (noun)
+Extreme morality.
+
+1. The preacher was the picture of rectitude.
+2. We commend mister Fallon for his extreme rectitude on the matter of our funds. 
+
+**Synonyms:** righteousness, goodness
+
+---
+
+#### 10) Respiration (noun)
+The action of breathing.
+
+1. The respiration of plants is vital to the survival of the Earth.
+2. He felt the vapors slowly affecting his respiration, leaving behind their subtle insidious poisons.
+
+**Synonyms:** breath, inhilation/exhalation
+
+---
+
 ## Week 7
 
 #### 1) Nomenclature (noun)
