@@ -4,6 +4,108 @@ sort: 8
 layout: portfolio
 ---
 
+## Week 9
+
+#### 1) Sangunie (adjective)
+Optimistic or positive, especially in a bad situation.
+
+1. He was the most sanguine out of the crowd of assassins, whispering encouragements even as the five were lead to their execution.
+2. The bard is expected to have a somewhat sanguine personality.
+
+**Synonyms:** optimistic, positive
+
+---
+
+#### 2) Soliloquy (noun)
+A monologue while a character thinks that they are alone; a monologue to oneself.
+
+1. Sometimes when I'm bored I give elaborate soliloquies.
+2. His soliloquy told us everything we needed to know from our place hidden in the rafters.
+
+**Synonyms:** monologue, speech
+
+---
+
+#### 3) Subjugate (verb)
+To bring under control, to conquer.
+
+1. The lord attempted to subjugate the people on the Western Front.
+2. The new Empire has subjugated half of the continent.
+
+**Synonyms:** conquer, oppress
+
+---
+
+#### 4) Sublime (adjective)
+Of such grandeur or beauty as to inspire awe.
+
+1. The text editor that I use to write this, Sublime Text, is indeed a sublime tool.
+2. This pie is sublime, I could eat a dozen!
+
+**Synonyms:** exalted, elevated
+
+---
+
+#### 5) Supercilious (adjective)
+Feeling or showing haughty distates, as if one is superior to others.
+
+1. He always seemed to have a supercilious attitude towards his students.
+2. She was a rather supercilious lady.
+
+**Synonyms:** arrogant, haughty
+
+---
+
+#### 6) Tautology (noun)
+Needless repetition of the same idea in different words. Self fulfilling or redundant.
+
+1. The first rule of the Tautology Club is the first rule of the Tautology Club.
+2. Saying the same thing twice is a tautology and it's also redundant.
+
+**Synonyms:** pleonism, repetition
+
+---
+
+#### 7) Taxonomy (noun)
+A scheme of classification of something.
+
+1. The taxonomy of this animal is shockingly convoluted.
+2. This program organizes a system of relationships into a taxonomy.
+
+**Synonyms:** classification, hierarchy
+
+---
+
+#### 8) Temerity (noun)
+Excessive confidence or boldness.
+
+1. You would have the temerity to challenge me, the thrice champion of the world&#8253;
+2. The children developed a temerity that rivaled their father.
+
+**Synonyms:** audacity, nerve
+
+---
+
+#### 9) Tempestuous (adjective)
+Full of stormy emotions; relating to a storm
+
+1. It was a tempestuous relationship that lasted mere weeks and led to 2 felonies.
+2. Race relations in America are a highly tempestuous subject.
+
+**Synonyms:** turbulent, tumultuous
+
+---
+
+#### 10) Totalitarian (adjective)
+Relating to a system of government centralized and dictatorial in which complete subservience is mandatory.
+
+1. Fictional Dystopias are often totalitarian systems.
+2. Nazi Germany was a totalitarian state.
+
+**Synonyms:** autocratic, tyrannical
+
+---
+
 ## Week 8
 
 #### 1) Perfunctory (adjective)
