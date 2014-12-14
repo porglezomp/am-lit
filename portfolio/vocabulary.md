@@ -4,6 +4,108 @@ sort: 8
 layout: portfolio
 ---
 
+## Week 10
+
+#### 1) Unctuous (adjective)
+Excessively or ingratiatingly flattering.
+
+1. The politician's behaviour felt extremely unctuous.
+2. When making a pitch it is best to not appear unctuous.
+
+**Synonyms:** sycophantic, obsequious
+
+---
+
+#### 2) Usurp (verb)
+To sieze and hold by force without legitimate authority.
+
+1. This week we attempted to usurp the hold of the Committee of Minds, but failed dismally.
+2. The rebels usurped the kingdom.
+
+**Synonyms:** sieze, wrest
+
+---
+
+#### 3) Vacuous (adjective)
+Devoid of substance, empty, stupid.
+
+1. The news anchor was vacuous, hired only for his looks.
+2. Their vacuous "plan" landed them in prison very quickly.
+
+**Synonyms:** silly, vapid
+
+---
+
+#### 4) Vehement (adjective)
+Forceful or intense expression, emotion, conviction.
+
+1. He vehemently argued his case to the judge.
+2. Her vehement appeals fell on deaf ears, she was led ruthlessly away.
+
+**Synonyms:** passionate, forceful
+
+---
+
+#### 5) Vortex (noun)
+A spiral motion of fluid.
+
+1. The vortex consumed the game pieces and spit them across the room.
+2. The ship fell into a massive vortex.
+
+**Synonyms:** whirlwind, cyclone
+
+---
+
+#### 6) Winnow (verb)
+To seperate or get rid of undesirable parts.
+
+1. Engineering is largely about winnowing a design.
+2. The farmer winnowed his grain.
+
+**Synonyms:** divide, sort
+
+---
+
+#### 7) Wrought (verb)
+Put together or created. (Past tense of work.)
+
+1. What have you wrought upon us?
+2. He wrought a machine of fearful blades of shining steel and brought it upon us.
+
+**Synonyms:** toiled, made
+
+---
+
+#### 8) Xenophobe (noun)
+A person afraid of or intolerant of foreign things.
+
+1. The xenophobes called for the removal of the alien ambassador.
+2. A xenophobic contingent is calling for a ban on immigration.
+
+**Synonyms:** prejudice, racism
+
+---
+
+#### 9) Yoke (verb)
+To join together or link.
+
+1. He yoked together the buckets with a yoke, and placed the yoke upon his shoulders.
+2. The two offices have been inextricably yoked together.
+
+**Synonyms:** harness, couple
+
+---
+
+#### 10) Zenith (noun)
+The highest point, culminating point.
+
+1. // warning: this code fails when the moon is at its zenith
+2. He died at the zenith of his career.
+
+**Synonyms:** apogee, summit
+
+---
+
 ## Week 9
 
 #### 1) Sangunie (adjective)
