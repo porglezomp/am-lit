@@ -5,7 +5,7 @@ layout: portfolio
 ---
 
 First Semester Final Essay
-==========================
+--------------------------
 
 Henry David Thoreau's _Civil Disobedience_ presents a pessimistic picture of a
 the present society, but a picture of a future society which is hopelessly
@@ -55,7 +55,7 @@ of how in an ideal society people can perhaps be trusted to independent of it.
 
 
 The Responsibility of Redemption in _The Crucible_ and _The Scarlet Letter_
-===========================================================================
+---------------------------------------------------------------------------
 
 Guilt can consume people and wear away at them until they are forced by their
 conscience to seek redemption. In the Novel _The Scarlet Letter_ by Nathaniel
