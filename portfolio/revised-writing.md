@@ -7,19 +7,19 @@ layout: portfolio
 First Semester Final Essay
 --------------------------
 
-Henry David Thoreau's _Civil Disobedience_ presents a pessimistic picture of a
-the present society, but a picture of a future society which is hopelessly
-optimistic. His theories are made somewhat more understandable when presented
-with an example like that of Hester Prynne from Nathanial Hawethorne's
-_The Scarlet Letter_. Hester embodies the aspects of Thoreau's individial ---
-"living aloof from [society], not meddling with it nor embraced by it," as
-Hester is seperated from the society by what amounts to banishment. At the same
-time, Hester's actions fit Thoreau's other requirements of "[fulfilling] all
-dutis of neighbors and fellow men." Hester perfectly fits Thoreaus' ideas as an
-essentially good person --- but she is ahead of her time in a society that's
-incompatible with Thoreau's ideal "State."
+Henry David Thoreau's _Civil Disobedience_ presents a rather pessimistic picture
+of the present society, but a picture of a future society which many people
+would view as almost hopelessly optimistic. His theories are made somewhat more
+understandable when presented with an example like that of Hester Prynne from
+Nathanial Hawethorne's _The Scarlet Letter_. Hester embodies the aspects of
+Thoreau's individial --- "living aloof from [society], not meddling with it nor
+embraced by it," as Hester is seperated from the society by what amounts to
+banishment. At the same time, Hester's actions fit Thoreau's other requirements
+of "[fulfilling] all dutis of neighbors and fellow men." Hester perfectly fits
+Thoreaus' ideas as an essentially good person --- but she is ahead of her time
+in a society that's incompatible with Thoreau's ideal "State."
 
-Thoreaus invisions a state in which a few can "live aloof from it," and Hester
+Thoreau invisions a state in which a few can "live aloof from it," and Hester
 certainly does this --- Thoreau's call of "not meddling with it," is evident
 when Hester interacts with most people. She's deferent and doesn't speak with
 most people; she has no with to directly influence the members of the society.
@@ -134,7 +134,7 @@ chest because he is so conflicted, and he wastes away as he stews in his guilt.
 He lives for seven years in agony of his secret and when he finally gets up
 onto the scaffold to give himself up he is full of energy, and an almost mad
 joy. When he finally admits it, he stands "with a flush of triumph in his face,
-as one who, in the crisis of acutest pain, had won a victory."
+as one who, in the crisis of acutest pain, had won a victory" (Hawthorne 273).
 
 The authors make it no secret that they think that sins should be admitted to
 honestly so that they can be repaired and forgiven. In _The Scarlet Letter_,
