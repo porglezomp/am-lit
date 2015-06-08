@@ -4,6 +4,83 @@ sort: 2
 layout: portfolio
 ---
 
+My Community
+------------
+
+I love to program, and so I’m active in communities where I can program
+frequently. I participate in the independent game development community and in
+multiple open source software projects. Both of these communities emphasize
+creation and creativity.
+
+Game development is a multifaceted activity; good game creators need to be able
+to program, design games, and write stories. It also helps to be able to make
+art, create sounds, or handle marketing and business. I’ve created games as
+part of 48 hour game jams, requiring meticulous time management and rapid
+development. I love to spend time talking with professional game developers
+about what they’re working on, but even though the game development community
+is close, most of the time we end up working solo or with only a small team.
+
+In open source on the other hand, we may have to collaborate with hundreds of
+people and reconcile our approach with the goals of the project as a whole.
+When I’m contributing to someone else’s project, I have to simultaneously try
+to handle the component I’m working on and discuss how it will mesh with the
+rest of the design.
+
+Both of these communities have similar goals. In software development we try to
+solve problems for your users, and in games we seek to provide experiences that
+enrich our players’ lives. The part that I love the most in both communities is
+that I can join smart people solving interesting and difficult problems, and
+make things that others can enjoy.
+
+Good and Evil in Young Goodman Brown
+------------------------------------
+
+Everyone knows about good vs. evil; most of our media is made up of characters
+that fit into one box or the other. But it's not possible to stuff a real
+person into one of those boxes. Judging people as being either totally good or
+absolutely evil is absurd, but it simply composes one of the many facets that
+make up the Puritan worldview. Nathaniel Hawthorne was very interested in the
+Puritans' obsession with sin and judgement. In his short story “Young Goodman
+Brown,” he explores a young Puritan’s struggle reconciling his worldview with
+his life as he goes into the forest, meets the devil, and sees things that he
+can’t believe. The story is Hawthorne’s criticism of the Puritan view of good
+and evil.
+
+The worldview is built upon a false premise. Clearly people can be good but
+commit some sins, and this is evident in the story. Brown’s village is
+essentially made of good, kind people. The minister blesses Brown as he passes,
+and the deacon is praying (6). “Goody Cloyse, that excellent old Christian” is
+teaching a little girl in the morning (6), and his wife Faith is so cheerful
+and friendly. These are good people, clearly, but in Goodman Brown’s eyes they
+are all practically devils. Seeing Goody Close, he “snatches away the child, as
+from the grasp of the fiend himself.” This is clearly a disproportionate
+response to what appears to have been singing and dancing around a fire in the
+middle of the forest (5), only committing highly abstract _sin_ by listening to
+the sermon of the “devil,” but not actually harming anyone. On the path,
+Goodman Brown sees Goody Cloyse, and quickly thinks her evil for simply being
+there, and being associated with the devil that he’s walking with, even though
+he knows she’s the good woman who taught him his catechisms (3). The worldview
+seems at odds with all common sense if it demands one must reject people --- no
+matter how virtuous --- at a single sin.
+
+That same rejection makes it a very fragile and harmful belief. In a single
+night, he learns that everyone sins (5, 6), but instead of realizing that
+everyone is complex, he takes to heart the notion that “evil is the nature of
+mankind” (6). Any faith which can be shattered in a single night cannot be very
+strong faith. The belief harms people by holding them to unreasonable
+standards, and then sets one up for constant disappointment when they fail to
+do the impossible. In Brown’s case, holding this belief ruins his life. “Had
+[he] fallen asleep in the forest and only dreamed a wild dream of witch
+meeting?” (6) But even with that doubt, Brown is unable to trust anyone,
+becoming a “sad […] distrustful, if not desperate man.” The belief destroys his
+own faith in his community, and his interaction with it.
+
+Hawthorne disapproved of the beliefs of the Puritans, but it doesn’t take a
+Puritan to judge. He illustrates how looking at people in a binary sense does
+both them and ourselves a disservice. Anyone can fall prey to this, and we
+would do well to heed Hawthorne: do not believe like the Puritans, look at
+people complexly and deeply.
+
 First Semester Final Essay
 --------------------------
 

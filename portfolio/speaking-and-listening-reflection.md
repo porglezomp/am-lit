@@ -5,4 +5,4 @@ depth: 2
 layout: portfolio
 ---
 
-Empty for now!
+We never did this, but I don't really want to remove it for some reason.
